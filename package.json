@@ -1,5 +1,5 @@
 {
-  "name": "color-transformer",
+  "name": "color-converter",
   "version": "1.0.0",
   "description": "offer a tool can let you transform rgb to hsl or reverse.",
   "main": "index.js",
